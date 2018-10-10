@@ -11,7 +11,7 @@ class UpperNavbar extends Component {
     {/* <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse">☰</button>  */}
     <div className="collapse navbar-collapse custom-below-uppernavbar" id="navbar-collapse">
         <ul className="nav navbar-nav ml-auto">
-           <li className="nav-item active custom-login-upper"> <a className="nav-link" href="">Login</a>
+           <li className="nav-item active custom-login-upper"> <a className="nav-link" href="">User</a>
             </li>
         </ul>
     </div>
